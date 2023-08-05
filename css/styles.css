@@ -148,6 +148,9 @@ a.contact-link:hover {
 .cite-source a {
   color:white;
 }
+.cite-source a:hover {
+  color:rgba(0, 0, 0, 0.9);
+}
 .lg-icons {
   font-size:36px;
 }
@@ -11163,7 +11166,7 @@ footer a:hover, footer a:active, footer a:focus {
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
-@media screen and (max-width:992px) {
+@media screen and (max-width:991px) {
   .masthead {
     padding-top: 6.5rem;
   }
