@@ -138,6 +138,9 @@ a.contact-link:hover {
 .green-text {
   color:#1b6810;
 }
+.not-bold {
+  font-weight:400;
+}
 .cite-source {
   font-size:11px;
   opacity:.6;
