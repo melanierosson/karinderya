@@ -11160,6 +11160,11 @@ footer a:hover, footer a:active, footer a:focus {
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
+@media screen and (max-width:992px) {
+  .masthead {
+    padding-top: 7.5rem;
+  }
+}
 .masthead .masthead-device-mockup {
   display: flex;
   align-items: center;
