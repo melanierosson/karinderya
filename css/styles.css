@@ -137,6 +137,7 @@ a.contact-link:hover {
 a.doordash-link {
   text-decoration:none;
   color:#f51a05;
+  line-height:1.85rem;
 }
 a.doordash-link:hover {
   color:#f51a05;
