@@ -134,7 +134,17 @@ a.contact-link:hover {
   color:#ff6701;
   cursor:pointer;
 }
-
+a.doordash-link {
+  text-decoration:none;
+  color:#f51a05;
+}
+a.doordash-link:hover {
+  color:#f51a05;
+  opacity: .75;
+}
+.red-text {
+  color:#f51a05;
+}
 .green-text {
   color:#1b6810;
 }
