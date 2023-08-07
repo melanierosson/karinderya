@@ -179,7 +179,7 @@ a.doordash-link:hover {
 .social>.fa-instagram {
   color:#8716c0;
 }
-button.menu-cta:hover {
+button.menu-cta:hover, button.btn-primary:hover {
   background-color:#f51a05;
   border-color:#f51a05;
   cursor:pointer;
