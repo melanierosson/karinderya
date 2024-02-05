@@ -143,6 +143,16 @@ a.doordash-link:hover {
   color:#f51a05;
   opacity: .75;
 }
+@media screen and (max-width:576px) {
+  .mobile-hide {
+    display:none;
+  }
+}
+@media screen and (min-width:577px) {
+  .mobile-hide {
+    display:inline;
+  }
+}
 .red-text {
   color:#f51a05;
 }
